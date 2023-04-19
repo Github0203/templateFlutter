@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ngockute</string>
+    <string name="facebook_app_id">1412639246153435</string>
+    <string name="fb_login_protocol_scheme">fb1412639246153435</string>
+    <string name="facebook_client_token">fa12c32c9beb5f72ec435482796b4ced4e7a182f69b7168dba798411a819d0f9</string>
+</resources>
+
